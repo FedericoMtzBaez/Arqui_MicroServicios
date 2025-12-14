@@ -1,0 +1,52 @@
+{
+    "798-31-9979": [
+        {
+            "amount": 6580,
+            "transaction_type": "aplicacion",
+            "status": "IN-PROGRESS",
+            "creation_date": "14/12/2025 00:00:00",
+            "transaction_id": "d99acea0e3124684ad3e7cf9e5b3e737",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 6627,
+            "transaction_type": "transferencia",
+            "status": "IN-PROGRESS",
+            "creation_date": "14/12/2025 00:00:00",
+            "transaction_id": "65656c4b162946f89f5933ddf23e8f3c",
+            "source": "mercado-pago"
+        },
+        {
+            "amount": 7450,
+            "transaction_type": "aplicacion",
+            "status": "IN-PROGRESS",
+            "creation_date": "14/12/2025 00:00:00",
+            "transaction_id": "0a89e2058640416bb8e2db4dc8c795a6",
+            "source": "conekta"
+        },
+        {
+            "amount": 2901,
+            "transaction_type": "pagina-web",
+            "status": "IN-PROGRESS",
+            "creation_date": "14/12/2025 00:00:00",
+            "transaction_id": "34526ee85c984656a815604b0baab0eb",
+            "source": "conekta"
+        },
+        {
+            "amount": 7725,
+            "transaction_type": "aplicacion",
+            "status": "IN-PROGRESS",
+            "creation_date": "14/12/2025 00:00:00",
+            "transaction_id": "f922b578d76d4d0d918d57510cbb4214",
+            "source": "paypal"
+        },
+        {
+            "amount": 6537,
+            "transaction_type": "pagina-web",
+            "status": "PENDING",
+            "creation_date": "14/12/2025 00:00:00",
+            "transaction_id": "e41aa13f521b4c11b531086107e37faa",
+            "source": "mercado-pago"
+        }
+    ]
+}
