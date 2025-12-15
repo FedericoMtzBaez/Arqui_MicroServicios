@@ -1,1 +1,0 @@
-* * * * * python3 /job/job_bank.py > /data/payment_records.json 2>&1
